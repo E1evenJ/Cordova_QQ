@@ -105,7 +105,7 @@
     <framework src="Security.framework" />
     <framework src="libiconv.tbd" />
     <framework src="libsqlite3.tbd" />
-    <framework src="libstdc++.tbd" />
+    <framework src="libc++.tbd" />
     <framework src="libz.tbd" />
     <!--QQ SDK version 3.2.3-->
     <framework src="src/ios/TencentOpenAPI.framework" custom="true" framework="true"/>
